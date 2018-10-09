@@ -4,6 +4,8 @@ import java.math.*;
 public class solution218 {
     
     /* 
+     * Problem URL: https://www.hackerrank.com/contests/projecteuler/challenges/euler218/
+     
      * == Primitive Pythagorean triples ==
      * 
      * Each valid pair generates a PPT:
