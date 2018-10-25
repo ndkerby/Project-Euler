@@ -31,4 +31,4 @@ while True:
 	if currentNumber >= max:
 		break
 
-print("The sum is: " + sum )
+print("The sum is: " + str(sum) )
